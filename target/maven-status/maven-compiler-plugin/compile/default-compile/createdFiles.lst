@@ -1,0 +1,15 @@
+com\bpm\configuration\CORSFilter.class
+com\bpm\configuration\BpmConfiguration.class
+com\bpm\model\User.class
+com\bpm\service\UserServiceImpl.class
+com\bpm\dao\inf\CurrencyDao.class
+com\bpm\model\Currency.class
+com\bpm\model\OrderItem.class
+com\bpm\dao\impl\CurrencyDaoImpl.class
+com\bpm\service\UserServiceInf.class
+com\bpm\configuration\BpmInitializer.class
+com\bpm\controller\UserController.class
+com\bpm\dao\impl\UserDaoImpl.class
+com\bpm\dao\inf\AbstractDao.class
+com\bpm\configuration\JpaConfiguration.class
+com\bpm\dao\inf\UserDao.class
